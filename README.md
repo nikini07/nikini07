@@ -1,4 +1,6 @@
+**`UI/UX Design Enthusiast | CS Student | Crafting User Centered Experiences`**
 
+I'm a first-year Computer Science student with a passion for UI/UX design, creating intuitive and engaging interfaces that make technology fun and accessible. I blend my coding skills with design principles to build projects from scratch, focusing on user experience and aesthetics. 
 
 
 ### Languages and Tools:
