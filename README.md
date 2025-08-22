@@ -1,4 +1,4 @@
-#Nikini Warnakulasuriya
+# Nikini Warnakulasuriya
 
 **`UI/UX Design Enthusiast | CS Student | Crafting User Centered Experiences`**
 
